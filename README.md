@@ -11,8 +11,7 @@ I have degrees at Systems engineering and Media production for advertising and o
 - 🎨 Ask me about what I've learned mixing both **design and development** disciplines.
 - 🌎 My goal is to **inspire the world** working with avant-garde technologies and trends.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodryg&layout=compact&hide=html" alt="rodryg" /></p>
-
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodryg&show_icons=true&theme=radical)
 
 <!--
 **rodryg/rodryg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
