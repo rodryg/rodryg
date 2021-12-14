@@ -35,21 +35,25 @@ I have degrees at Systems engineering and Media production for advertising and o
 In charge of design and Wordpress theme development and personalization. Manage to use YouTube API to reduce server load.
 - Client: Pacífico Seguros and Semana Económica.
 - 🔗 https://historiasqueinspiran.pe/
+[![Historias que inspiran](historias.gif)](https://historiasqueinspiran.pe/)
 
 #### Schools pages for College Institution
 In charge of design and Wordpress theme development and personalization of more than 30 schools. Managed to increase the amount of information on the page in arround 1000% comparing to the older design.
-- Client: Catholic University of Saint Mary, sample page: Mechanical Engineering 
+- Client: Catholic University of Saint Mary, sample page: Mechanical Engineering
 - 🔗 https://www2.ucsm.edu.pe/ciencias-e-ingenierias/ingenieria-mecanica/
+[![Catholic University of Saint Mary, sample page: Mechanical Engineering](ucsm.gif)](https://www2.ucsm.edu.pe/ciencias-e-ingenierias/ingenieria-mecanica/)
 
 #### Ticket and reservation platform
 Design and Vue CLI and Node.js development. Creation of a client-server API.
 - Client: Flight Center
 - 🔗 https://fc.dev.pinkxel.com/
+[![Flight Center](flight.gif)](https://fc.dev.pinkxel.com/)
 
 #### Corporate advisory company website
 Design and Wordpress theme development and personalization.  Manage of responsive using ligth video formats and sofisticated design and animation.
 - Client: Aurum Capital
 - 🔗 https://aurumcapital.pe/
+[![Aurum Capital](aurum.gif)](https://aurumcapital.pe/)
 
 ### Personal projects
 
@@ -57,6 +61,7 @@ Design and Wordpress theme development and personalization.  Manage of responsiv
 Brand design, UX/UI design and Wordpress theme development and personalization. Manage of responsive using light video formats and minimalistic design.
 - Client: UNE Festival
 - 🔗 https://une.la/
+[![UNE Festival](une.gif)](https://une.la/)
 
 #### Geolocalized social network prototype
 Brand design, UX/UI desing and Vue.js, Node.js and Express.js server development and geo querys using Elastic. Prototype of a social network focused on image and video publication and geo navigation.
