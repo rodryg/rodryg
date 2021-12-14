@@ -1,4 +1,4 @@
-# Hola! 🤙 I'm Rodrigo Yrigoyen
+# Hola! 👾 I'm Rodrigo Yrigoyen
 
 ## About me
 
@@ -17,18 +17,18 @@ I have degrees at Systems engineering and Media production for advertising and o
 ## Experience
 ### Technologies
  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="32"/> **HTML5 y CSS3** Focus on improving SEO reusing style selectors and proper responsive.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="32"/> **JavaScript** Using ECMAScript 6 (ES6) in front and back-end in most projects.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32"/> **Vuej.js** Experience in several proyects using Vue Cli and Vuex.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/> **Node.js** Instalation, configuration and package management.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/> **Express.js** Preferred server for Node.js applications used in several projects.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> **Python** Used for processing images and data for some projects.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/> **PHP** Used in and personalization of web project commonly using Wordpress.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/> **Bash** Use of batch scripts for automatization.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> **Git** Using a propper 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> **Docker** Used on some projects for faster scalability.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> **MySQL** Used commonly with CMS projects.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> **MongoDB** Used along Node.js and React projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="32"/> **HTML5 y CSS3** — Focus on improving SEO reusing style selectors and proper responsive.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="32"/> **JavaScript** — Using ECMAScript 6 (ES6) in front and back-end in most projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32"/> **Vuej.js** — Experience in several proyects using Vue Cli and Vuex.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/> **Node.js** — Instalation, configuration and package management.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/> **Express.js** — Preferred server for Node.js applications used in several projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> **Python** — Used for processing images and data for some projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/> **PHP** — Used in and personalization of web project commonly using Wordpress.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/> **Bash** — Use of batch scripts for automatization.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> **Git** — Working with branches, propper commit notation and advanced features.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> **Docker** — Used on some projects for faster scalability.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> **MySQL** — Used commonly with PHP projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> **MongoDB** — Used along Node.js and React projects.
 
 <!--
 **rodryg/rodryg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
