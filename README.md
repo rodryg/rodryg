@@ -30,6 +30,26 @@ I have degrees at Systems engineering and Media production for advertising and o
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> **MySQL** — Used commonly with PHP projects.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> **MongoDB** — Used along Node.js and React projects.
 
+### Recent projects
+#### Video platform for insurance company
+In charge of UX/UI design and Wordpress theme development and personalization. Manage to use YouTube API to reduce server load.
+- Client: Pacífico Seguros and Semana Económica.
+- 🔗 https://historiasqueinspiran.pe/
+
+#### Schools pages for College Institution
+
+#### Ticket and reservation platform
+
+#### Corporate advisory company website
+
+### Personal projects
+
+#### Digital art festival platform
+
+#### Geolocalized social network prototype
+
+
+
 <!--
 **rodryg/rodryg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
