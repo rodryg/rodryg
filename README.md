@@ -13,6 +13,14 @@ I have degrees at Systems engineering and Media production for advertising and o
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodryg&show_icons=true&theme=radical)
 
+
+## Experience
+# Technologies
+- Vuej.js ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
+
+
+
+
 <!--
 **rodryg/rodryg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
