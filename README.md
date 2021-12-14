@@ -1,15 +1,18 @@
-# Hello there 🤙 I'm Rodrigo Yrigoyen
+# Hola! 🤙 I'm Rodrigo Yrigoyen
 
 ## About me
 
-I have degrees at Systems enginiering and Media production for advertising and over 12 years of expirience working as a full stack development and UX/UI designer.
+I have degrees at Systems engineering and Media production for advertising and over 12 years of experience working as a full stack development and UX/UI designer.
 
-> I bealive design and development should be undestood as a whole.
+> I belive design and development should be understood as a whole.
 
-- 💻 Currently working on pinkxel.com.
-- 🤖 Learning Data science and artificial intelligence.
-- 🎨 Ask me about what I've learnd mixing both design and development diciplines.
-- 🌎 My goal is to inspire the world working with avant-garde technologies and trends.
+- 💻 Currently working on [pinkxel.com](https://pinkxel.com) digital design studio.
+- 🤖 Learning **Data science and artificial intelligence**.
+- 🎨 Ask me about what I've learned mixing both **design and development** disciplines.
+- 🌎 My goal is to **inspire the world** working with avant-garde technologies and trends.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodryg&layout=compact&hide=html" alt="rodryg" /></p>
+
 
 <!--
 **rodryg/rodryg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
